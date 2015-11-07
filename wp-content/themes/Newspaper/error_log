@@ -1,0 +1,7 @@
+[21-Oct-2015 05:14:12] PHP Fatal error:  Call to undefined function  get_header() in /home/excent20/public_html/DOMAIN/freelings.me/wp-content/themes/Newspaper/index.php on line 6
+[21-Oct-2015 05:20:07] PHP Fatal error:  Call to undefined function  get_header() in /home/excent20/public_html/DOMAIN/freelings.me/wp-content/themes/Newspaper/index.php on line 6
+[21-Oct-2015 09:25:08] PHP Fatal error:  Call to undefined function  get_header() in /home/excent20/public_html/DOMAIN/freelings.me/wp-content/themes/Newspaper/index.php on line 6
+[21-Oct-2015 17:27:45] PHP Fatal error:  Call to undefined function  get_header() in /home/excent20/public_html/DOMAIN/freelings.me/wp-content/themes/Newspaper/index.php on line 6
+[25-Oct-2015 05:13:01] PHP Fatal error:  Call to undefined function  get_header() in /home/excent20/public_html/DOMAIN/freelings.me/wp-content/themes/Newspaper/index.php on line 6
+[27-Oct-2015 16:08:04 Europe/Helsinki] PHP Fatal error:  Call to undefined function get_header() in /home/excent20/public_html/PROJECT/freelings.me/wp-content/themes/Newspaper/index.php on line 6
+[30-Oct-2015 21:53:05 Europe/Helsinki] PHP Fatal error:  Call to undefined function get_header() in /home/excent20/public_html/PROJECT/freelings.me/wp-content/themes/Newspaper/index.php on line 6
